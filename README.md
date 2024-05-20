@@ -2,6 +2,6 @@
 demo repository
 <br><hr>
 
-author sujit aher
+author sujit ahe r
 <hr>
 date
